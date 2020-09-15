@@ -1,0 +1,9 @@
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.pdb

@@ -1,0 +1,8 @@
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\master.dacpac
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.sqlprojAssemblyReference.cache
+C:\Users\yisien\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.sqlproj.CopyComplete
